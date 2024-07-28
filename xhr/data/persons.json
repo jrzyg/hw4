@@ -1,0 +1,23 @@
+
+[
+  {
+    "name": "Naruto",
+    "age": 16,
+    "photo": "https://icdn.lenta.ru/images/2023/03/10/03/20230310035249643/square_1280_15ab7de37f82eba42e9f0a58fbe70f09.jpg"
+  },
+  {
+    "name": "Sasuke",
+    "age": 16,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamVDF05654ZtT0lNkHB8r3G5hg7meY3r5Tw&s"
+  },
+  {
+    "name": "Sakura",
+    "age": 16,
+    "photo": "https://static.wikia.nocookie.net/world-war-fan-fiction-series/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20170802131030"
+  },
+  {
+    "name": "Kakashi",
+    "age": 36,
+    "photo": "https://static.wikia.nocookie.net/naruto/images/2/25/Kakashi_Part_III.png/revision/latest?cb=20210214190136&path-prefix=ru"
+  }
+]
